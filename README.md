@@ -2,9 +2,9 @@
 This is a test library to upload on test.pypi.org.
 It has one class and one method in it.
 
-- Fibo
+- Fibo:
 The class.
-- Fibo.fibo(x)
+- Fibo.fibo(x):
 Calculate x th fibonacci number. x must be a positive interger.
 
 
