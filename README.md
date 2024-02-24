@@ -1,6 +1,7 @@
-## fibo_testpypi
+## fibo_testpypi2
 This is a test library to upload on test.pypi.org.
-It has one class and one method in it.
+It provides a method to calculate fibonacci numbers.
+I changed the name of the library.
 
 - Fibo:
 The class.

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fibo-testpypi"
+name = "fibo-testpypi2"
 version = "0.1.0"
 description = "A class to calculate fibonacci numbers"
 authors = ["e60e256 <e60nayuta@g.ecc.u-tokyo.ac.jp>"]
