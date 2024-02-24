@@ -23,4 +23,4 @@ print(Fiboo.fibo(3)) # 2
 print(Fiboo.fibo(5)) # 5
 
 print(Fiboo.fibo_squared(5)) # 29
-
+print(Fiboo.fibo_squared(6)) # 866
