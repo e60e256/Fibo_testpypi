@@ -10,8 +10,8 @@ Calculate x th fibonacci number. x must be a positive interger.
 
 ### Usage
 ```python
-import fibo_testpypi
-Fibo = fibo_testpypi.Fibo()
-print(Fibo.fibo(1)) # 1
-print(Fibo.fibo(3)) # 2
-print(Fibo.fibo(5)) # 5
+from fibo_testpypi.fibo import Fibo
+Fiboo = Fibo()
+print(Fiboo.fibo(1)) # 1
+print(Fiboo.fibo(3)) # 2
+print(Fiboo.fibo(5)) # 5
