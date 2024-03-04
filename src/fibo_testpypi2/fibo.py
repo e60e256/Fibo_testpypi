@@ -1,3 +1,5 @@
+from . import _calc
+
 class Fibo:
     def __init__(self):
         self.fibo_dict = dict()
@@ -29,3 +31,7 @@ class Fibo:
             ans = self.fibo_squared(x-1)**2 + self.fibo_squared(x-2)**2
             self.fibo2_dict[x] = ans
             return ans
+
+
+def add(a, b):
+    return _calc.add(a, b)

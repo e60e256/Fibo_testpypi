@@ -1,0 +1,14 @@
+[metadata]
+name = Fibo_testpypi2
+version = 0.3.0
+
+[options]
+zip_safe = False
+include_package_data = True
+package_dir =
+    = src
+packages = find:
+
+[options.packages.find]
+where = src
+
