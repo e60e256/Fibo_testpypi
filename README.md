@@ -24,3 +24,9 @@ print(Fiboo.fibo(5)) # 5
 
 print(Fiboo.fibo_squared(5)) # 29
 print(Fiboo.fibo_squared(6)) # 866
+
+# Test for including C Extension
+from fibo_testpypi2.fibo import add
+print(add(10, 20)) # 30
+print(add(100, 200)) # 300
+
